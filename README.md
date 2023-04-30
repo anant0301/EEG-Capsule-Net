@@ -1,2 +1,2 @@
 # EEG-Capsule-Net
-Using Capsule Network for EEG classification using Digit-Caps model
+Using Capsule Network for EEG emotion classification using Digit-Caps model
