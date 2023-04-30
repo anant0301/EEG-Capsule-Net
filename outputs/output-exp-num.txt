@@ -1,0 +1,6 @@
+train accuracy: 0.01
+train_loss: tensor(154.6239, device='cuda:0')
+train_loss/datalen tensor(0.8095, device='cuda:0')
+test accuracy: 0.07
+test_loss: tensor(101.8690, device='cuda:0')
+test_loss/datalen tensor(0.8021, device='cuda:0')

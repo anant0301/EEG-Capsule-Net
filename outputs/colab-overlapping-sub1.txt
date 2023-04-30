@@ -1,0 +1,114 @@
+train accuracy: 0.15
+tensor(15.4330, device='cuda:0')
+test accuracy: 0.31
+tensor(18.1180, device='cuda:0')
+epoch: 1
+train accuracy: 0.14
+tensor(15.5059, device='cuda:0')
+test accuracy: 0.35
+tensor(18.0231, device='cuda:0')
+epoch: 2
+train accuracy: 0.14
+tensor(15.3699, device='cuda:0')
+test accuracy: 0.31
+tensor(18.0365, device='cuda:0')
+epoch: 3
+train accuracy: 0.16
+tensor(15.3610, device='cuda:0')
+test accuracy: 0.33
+tensor(17.9819, device='cuda:0')
+epoch: 4
+train accuracy: 0.15
+tensor(15.5315, device='cuda:0')
+test accuracy: 0.43
+tensor(18.0655, device='cuda:0')
+epoch: 5
+train accuracy: 0.21
+tensor(15.4101, device='cuda:0')
+test accuracy: 0.27
+tensor(17.9738, device='cuda:0')
+epoch: 6
+train accuracy: 0.18
+tensor(15.4493, device='cuda:0')
+test accuracy: 0.3
+tensor(17.9294, device='cuda:0')
+epoch: 7
+train accuracy: 0.2
+tensor(15.3642, device='cuda:0')
+test accuracy: 0.39
+tensor(17.9294, device='cuda:0')
+epoch: 8
+train accuracy: 0.17
+tensor(15.2984, device='cuda:0')
+test accuracy: 0.34
+tensor(17.9374, device='cuda:0')
+epoch: 9
+train accuracy: 0.22
+tensor(15.4685, device='cuda:0')
+test accuracy: 0.29
+tensor(18.0187, device='cuda:0')
+epoch: 10
+train accuracy: 0.22
+tensor(15.4096, device='cuda:0')
+test accuracy: 0.38
+tensor(17.9425, device='cuda:0')
+epoch: 11
+train accuracy: 0.16
+tensor(15.2786, device='cuda:0')
+test accuracy: 0.4
+tensor(17.8908, device='cuda:0')
+epoch: 12
+train accuracy: 0.22
+tensor(15.6238, device='cuda:0')
+test accuracy: 0.33
+tensor(17.9406, device='cuda:0')
+epoch: 13
+train accuracy: 0.25
+tensor(15.3645, device='cuda:0')
+test accuracy: 0.38
+tensor(17.9127, device='cuda:0')
+epoch: 14
+train accuracy: 0.26
+tensor(15.3476, device='cuda:0')
+test accuracy: 0.36
+tensor(17.8673, device='cuda:0')
+epoch: 15
+train accuracy: 0.22
+tensor(15.3330, device='cuda:0')
+test accuracy: 0.35
+tensor(17.9943, device='cuda:0')
+epoch: 16
+train accuracy: 0.25
+tensor(15.5410, device='cuda:0')
+test accuracy: 0.43
+tensor(17.9520, device='cuda:0')
+epoch: 17
+train accuracy: 0.2
+tensor(15.2779, device='cuda:0')
+test accuracy: 0.33
+tensor(17.9078, device='cuda:0')
+epoch: 18
+train accuracy: 0.22
+tensor(15.3548, device='cuda:0')
+test accuracy: 0.39
+tensor(17.9280, device='cuda:0')
+epoch: 19
+train accuracy: 0.16
+tensor(15.1742, device='cuda:0')
+test accuracy: 0.32
+tensor(17.9465, device='cuda:0')
+epoch: 20
+train accuracy: 0.24
+tensor(15.2617, device='cuda:0')
+test accuracy: 0.35
+tensor(17.8907, device='cuda:0')
+epoch: 21
+train accuracy: 0.28
+tensor(15.1214, device='cuda:0')
+test accuracy: 0.35
+tensor(17.9668, device='cuda:0')
+epoch: 22
+train accuracy: 0.25
+tensor(15.1364, device='cuda:0')
+test accuracy: 0.27
+tensor(17.9016, device='cuda:0')
