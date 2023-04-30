@@ -1,0 +1,23 @@
+/home/patelanant/.local/lib/python3.8/site-packages/pandas/core/computation/expressions.py:20: UserWarning: Pandas requires version '2.7.3' or newer of 'numexpr' (version '2.7.1' currently installed).
+  from pandas.core.computation.check import NUMEXPR_INSTALLED
+  0%|          | 0/1000 [00:00<?, ?it/s]singular.py:157: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  c_ij = F.softmax(b_ij)
+singular.py:191: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  classes = F.softmax(classes)
+  0%|          | 1/1000 [02:44<45:45:24, 164.89s/it]  0%|          | 2/1000 [05:46<48:22:44, 174.51s/it]  0%|          | 3/1000 [09:22<53:40:56, 193.84s/it]  0%|          | 4/1000 [14:10<63:54:27, 230.99s/it]  0%|          | 5/1000 [20:12<76:49:40, 277.97s/it]  1%|          | 6/1000 [27:17<90:35:16, 328.08s/it]  1%|          | 7/1000 [35:19<104:20:11, 378.26s/it]  1%|          | 8/1000 [44:22<118:40:30, 430.68s/it]  1%|          | 9/1000 [54:21<133:07:27, 483.60s/it]  1%|          | 10/1000 [1:05:13<147:14:42, 535.44s/it]  1%|          | 11/1000 [1:17:03<161:47:09, 588.91s/it]  1%|          | 12/1000 [1:29:58<177:08:27, 645.45s/it]  1%|▏         | 13/1000 [1:43:45<192:01:10, 700.38s/it]  1%|▏         | 14/1000 [1:58:37<207:43:10, 758.41s/it]  2%|▏         | 15/1000 [2:14:17<222:28:26, 813.10s/it]  2%|▏         | 16/1000 [2:30:54<237:23:58, 868.53s/it]  2%|▏         | 17/1000 [2:48:30<252:29:41, 924.70s/it]  2%|▏         | 18/1000 [3:07:12<268:27:47, 984.18s/it]  2%|▏         | 19/1000 [3:26:39<283:08:16, 1039.04s/it]  2%|▏         | 20/1000 [3:47:02<297:52:36, 1094.24s/it]  2%|▏         | 21/1000 [4:08:26<313:04:40, 1151.26s/it]  2%|▏         | 22/1000 [4:31:05<329:39:30, 1213.47s/it]  2%|▏         | 23/1000 [4:54:45<346:11:01, 1275.60s/it]  2%|▏         | 24/1000 [5:19:51<364:31:00, 1344.53s/it]  2%|▎         | 25/1000 [5:46:19<383:56:33, 1417.63s/it]  3%|▎         | 26/1000 [6:14:15<404:30:02, 1495.07s/it]  3%|▎         | 27/1000 [6:43:34<425:31:36, 1574.41s/it]  3%|▎         | 28/1000 [7:14:39<448:36:11, 1661.49s/it]  3%|▎         | 29/1000 [7:46:47<469:43:27, 1741.51s/it]  3%|▎         | 30/1000 [8:20:25<491:35:06, 1824.44s/it]  3%|▎         | 31/1000 [8:55:33<514:00:01, 1909.60s/it]  3%|▎         | 32/1000 [9:32:01<535:57:16, 1993.22s/it]  3%|▎         | 33/1000 [10:09:46<557:14:37, 2074.54s/it]  3%|▎         | 34/1000 [10:49:00<579:11:30, 2158.48s/it]  4%|▎         | 35/1000 [11:30:12<603:47:21, 2252.48s/it]  4%|▎         | 36/1000 [12:12:23<625:32:59, 2336.08s/it]  4%|▎         | 37/1000 [12:56:04<647:46:52, 2421.61s/it]  4%|▍         | 38/1000 [13:41:12<670:04:53, 2507.58s/it]  4%|▍         | 39/1000 [14:27:47<692:22:50, 2593.73s/it]  4%|▍         | 40/1000 [15:15:50<714:48:49, 2680.55s/it]  4%|▍         | 41/1000 [15:57:31<699:43:55, 2626.73s/it]  4%|▍         | 42/1000 [16:39:20<689:32:02, 2591.15s/it]  4%|▍         | 43/1000 [17:22:58<691:00:24, 2599.40s/it]  4%|▍         | 44/1000 [18:06:21<690:34:05, 2600.47s/it]  4%|▍         | 45/1000 [18:50:39<694:25:08, 2617.71s/it]  5%|▍         | 46/1000 [19:35:59<701:47:33, 2648.27s/it]  5%|▍         | 46/1000 [19:49:20<411:05:45, 1551.31s/it]
+Traceback (most recent call last):
+  File "singular.py", line 272, in <module>
+    for batch_id, (data, target) in enumerate(seed.train_loader):
+  File "/home/patelanant/.local/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 634, in __next__
+    data = self._next_data()
+  File "/home/patelanant/.local/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 678, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/home/patelanant/.local/lib/python3.8/site-packages/torch/utils/data/_utils/fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/patelanant/.local/lib/python3.8/site-packages/torch/utils/data/_utils/fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "singular.py", line 82, in __getitem__
+    arr = np.load(os.path.join(self.root_dir, self.df['outfile_name'].iloc[idx]), allow_pickle= True)
+  File "/home/patelanant/.local/lib/python3.8/site-packages/numpy/lib/npyio.py", line 441, in load
+    return pickle.load(fid, **pickle_kwargs)
+KeyboardInterrupt

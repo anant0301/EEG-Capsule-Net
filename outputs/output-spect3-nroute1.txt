@@ -1,0 +1,460 @@
+train accuracy max: 0.05
+train_loss: tensor(177.3777, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(177.3777, device='cuda:0')
+train_loss/datalen tensor(0.7954, device='cuda:0')
+Loss updated:  tensor(-40.3481, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.05
+test_loss: tensor(74.9105, device='cuda:0')
+test_loss/datalen tensor(0.7803, device='cuda:0')
+train accuracy max: 0.01
+train_loss: tensor(167.7985, device='cuda:0')
+train accuracy min: 0.02
+train_loss: tensor(167.7985, device='cuda:0')
+train_loss/datalen tensor(0.7525, device='cuda:0')
+Loss updated:  tensor(98.4153, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.06
+test_loss: tensor(71.7671, device='cuda:0')
+test_loss/datalen tensor(0.7476, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(158.3207, device='cuda:0')
+train accuracy min: 0.0
+train_loss: tensor(158.3207, device='cuda:0')
+train_loss/datalen tensor(0.7100, device='cuda:0')
+Loss updated:  tensor(95.0959, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.05
+test_loss: tensor(68.4097, device='cuda:0')
+test_loss/datalen tensor(0.7126, device='cuda:0')
+train accuracy max: 0.04
+train_loss: tensor(154.0458, device='cuda:0')
+train accuracy min: 0.02
+train_loss: tensor(154.0458, device='cuda:0')
+train_loss/datalen tensor(0.6908, device='cuda:0')
+Loss updated:  tensor(47.7639, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.05
+test_loss: tensor(67.8067, device='cuda:0')
+test_loss/datalen tensor(0.7063, device='cuda:0')
+train accuracy max: 0.02
+train_loss: tensor(152.6593, device='cuda:0')
+train accuracy min: 0.03
+train_loss: tensor(152.6593, device='cuda:0')
+train_loss/datalen tensor(0.6846, device='cuda:0')
+Loss updated:  tensor(67.5457, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.07
+test_loss: tensor(66.8866, device='cuda:0')
+test_loss/datalen tensor(0.6967, device='cuda:0')
+train accuracy max: 0.01
+train_loss: tensor(151.0079, device='cuda:0')
+train accuracy min: 0.04
+train_loss: tensor(151.0079, device='cuda:0')
+train_loss/datalen tensor(0.6772, device='cuda:0')
+Loss updated:  tensor(34.2674, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.07
+test accuracy: 0.05
+test_loss: tensor(66.7439, device='cuda:0')
+test_loss/datalen tensor(0.6952, device='cuda:0')
+train accuracy max: 0.03
+train_loss: tensor(149.7590, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(149.7590, device='cuda:0')
+train_loss/datalen tensor(0.6716, device='cuda:0')
+Loss updated:  tensor(25.1654, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.05
+test accuracy: 0.06
+test_loss: tensor(66.9189, device='cuda:0')
+test_loss/datalen tensor(0.6971, device='cuda:0')
+train accuracy max: 0.04
+train_loss: tensor(148.1191, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(148.1191, device='cuda:0')
+train_loss/datalen tensor(0.6642, device='cuda:0')
+Loss updated:  tensor(29.1455, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.05
+test accuracy: 0.05
+test_loss: tensor(66.7363, device='cuda:0')
+test_loss/datalen tensor(0.6952, device='cuda:0')
+train accuracy max: 0.04
+train_loss: tensor(147.3753, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(147.3753, device='cuda:0')
+train_loss/datalen tensor(0.6609, device='cuda:0')
+Loss updated:  tensor(18.4781, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.1
+test accuracy: 0.04
+test_loss: tensor(65.9923, device='cuda:0')
+test_loss/datalen tensor(0.6874, device='cuda:0')
+train accuracy max: 0.02
+train_loss: tensor(146.3314, device='cuda:0')
+train accuracy min: 0.02
+train_loss: tensor(146.3314, device='cuda:0')
+train_loss/datalen tensor(0.6562, device='cuda:0')
+Loss updated:  tensor(42.9716, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.08
+test accuracy: 0.08
+test_loss: tensor(65.5069, device='cuda:0')
+test_loss/datalen tensor(0.6824, device='cuda:0')
+train accuracy max: 0.04
+train_loss: tensor(145.0434, device='cuda:0')
+train accuracy min: 0.02
+train_loss: tensor(145.0434, device='cuda:0')
+train_loss/datalen tensor(0.6504, device='cuda:0')
+Loss updated:  tensor(12.4185, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.1
+test accuracy: 0.06
+test_loss: tensor(65.5963, device='cuda:0')
+test_loss/datalen tensor(0.6833, device='cuda:0')
+train accuracy max: 0.02
+train_loss: tensor(144.0734, device='cuda:0')
+train accuracy min: 0.03
+train_loss: tensor(144.0734, device='cuda:0')
+train_loss/datalen tensor(0.6461, device='cuda:0')
+Loss updated:  tensor(26.5162, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.04
+test accuracy: 0.05
+test_loss: tensor(65.8000, device='cuda:0')
+test_loss/datalen tensor(0.6854, device='cuda:0')
+train accuracy max: 0.03
+train_loss: tensor(142.7838, device='cuda:0')
+train accuracy min: 0.04
+train_loss: tensor(142.7838, device='cuda:0')
+train_loss/datalen tensor(0.6403, device='cuda:0')
+Loss updated:  tensor(6.4298, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.1
+test accuracy: 0.04
+test_loss: tensor(65.5250, device='cuda:0')
+test_loss/datalen tensor(0.6826, device='cuda:0')
+train accuracy max: 0.03
+train_loss: tensor(141.3195, device='cuda:0')
+train accuracy min: 0.03
+train_loss: tensor(141.3195, device='cuda:0')
+train_loss/datalen tensor(0.6337, device='cuda:0')
+Loss updated:  tensor(64.6803, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.1
+test accuracy: 0.03
+test_loss: tensor(64.9635, device='cuda:0')
+test_loss/datalen tensor(0.6767, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(139.7818, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(139.7818, device='cuda:0')
+train_loss/datalen tensor(0.6268, device='cuda:0')
+Loss updated:  tensor(19.0220, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.09
+test_loss: tensor(65.3567, device='cuda:0')
+test_loss/datalen tensor(0.6808, device='cuda:0')
+train accuracy max: 0.04
+train_loss: tensor(138.6483, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(138.6483, device='cuda:0')
+train_loss/datalen tensor(0.6217, device='cuda:0')
+Loss updated:  tensor(16.6642, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.04
+test accuracy: 0.08
+test_loss: tensor(65.3368, device='cuda:0')
+test_loss/datalen tensor(0.6806, device='cuda:0')
+train accuracy max: 0.04
+train_loss: tensor(136.7766, device='cuda:0')
+train accuracy min: 0.0
+train_loss: tensor(136.7766, device='cuda:0')
+train_loss/datalen tensor(0.6133, device='cuda:0')
+Loss updated:  tensor(26.5502, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.07
+test accuracy: 0.05
+test_loss: tensor(65.3991, device='cuda:0')
+test_loss/datalen tensor(0.6812, device='cuda:0')
+train accuracy max: 0.03
+train_loss: tensor(135.6191, device='cuda:0')
+train accuracy min: 0.03
+train_loss: tensor(135.6191, device='cuda:0')
+train_loss/datalen tensor(0.6082, device='cuda:0')
+Loss updated:  tensor(21.4563, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.11
+test accuracy: 0.06
+test_loss: tensor(65.2301, device='cuda:0')
+test_loss/datalen tensor(0.6795, device='cuda:0')
+train accuracy max: 0.03
+train_loss: tensor(133.8361, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(133.8361, device='cuda:0')
+train_loss/datalen tensor(0.6002, device='cuda:0')
+Loss updated:  tensor(20.9540, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.08
+test accuracy: 0.03
+test_loss: tensor(65.3156, device='cuda:0')
+test_loss/datalen tensor(0.6804, device='cuda:0')
+train accuracy max: 0.04
+train_loss: tensor(132.1255, device='cuda:0')
+train accuracy min: 0.03
+train_loss: tensor(132.1255, device='cuda:0')
+train_loss/datalen tensor(0.5925, device='cuda:0')
+Loss updated:  tensor(31.9532, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.05
+test accuracy: 0.06
+test_loss: tensor(65.9633, device='cuda:0')
+test_loss/datalen tensor(0.6871, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(130.1774, device='cuda:0')
+train accuracy min: 0.0
+train_loss: tensor(130.1774, device='cuda:0')
+train_loss/datalen tensor(0.5838, device='cuda:0')
+Loss updated:  tensor(16.2089, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.12
+test accuracy: 0.04
+test_loss: tensor(65.4428, device='cuda:0')
+test_loss/datalen tensor(0.6817, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(127.8649, device='cuda:0')
+train accuracy min: 0.02
+train_loss: tensor(127.8649, device='cuda:0')
+train_loss/datalen tensor(0.5734, device='cuda:0')
+Loss updated:  tensor(25.6455, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.1
+test accuracy: 0.03
+test_loss: tensor(65.6966, device='cuda:0')
+test_loss/datalen tensor(0.6843, device='cuda:0')
+train accuracy max: 0.02
+train_loss: tensor(126.0215, device='cuda:0')
+train accuracy min: 0.02
+train_loss: tensor(126.0215, device='cuda:0')
+train_loss/datalen tensor(0.5651, device='cuda:0')
+Loss updated:  tensor(23.4988, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.08
+test accuracy: 0.07
+test_loss: tensor(65.8806, device='cuda:0')
+test_loss/datalen tensor(0.6863, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(123.7341, device='cuda:0')
+train accuracy min: 0.0
+train_loss: tensor(123.7341, device='cuda:0')
+train_loss/datalen tensor(0.5549, device='cuda:0')
+Loss updated:  tensor(22.7207, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.09
+test accuracy: 0.06
+test_loss: tensor(65.8565, device='cuda:0')
+test_loss/datalen tensor(0.6860, device='cuda:0')
+train accuracy max: 0.06
+train_loss: tensor(121.3372, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(121.3372, device='cuda:0')
+train_loss/datalen tensor(0.5441, device='cuda:0')
+Loss updated:  tensor(17.3350, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.08
+test accuracy: 0.06
+test_loss: tensor(66.0308, device='cuda:0')
+test_loss/datalen tensor(0.6878, device='cuda:0')
+train accuracy max: 0.03
+train_loss: tensor(119.7144, device='cuda:0')
+train accuracy min: 0.02
+train_loss: tensor(119.7144, device='cuda:0')
+train_loss/datalen tensor(0.5368, device='cuda:0')
+Loss updated:  tensor(13.5105, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.08
+test accuracy: 0.06
+test_loss: tensor(66.0901, device='cuda:0')
+test_loss/datalen tensor(0.6884, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(116.1538, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(116.1538, device='cuda:0')
+train_loss/datalen tensor(0.5209, device='cuda:0')
+Loss updated:  tensor(14.2786, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.03
+test_loss: tensor(66.3673, device='cuda:0')
+test_loss/datalen tensor(0.6913, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(113.8345, device='cuda:0')
+train accuracy min: 0.0
+train_loss: tensor(113.8345, device='cuda:0')
+train_loss/datalen tensor(0.5105, device='cuda:0')
+Loss updated:  tensor(12.7221, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.13
+test accuracy: 0.02
+test_loss: tensor(66.4270, device='cuda:0')
+test_loss/datalen tensor(0.6919, device='cuda:0')
+train accuracy max: 0.03
+train_loss: tensor(111.5067, device='cuda:0')
+train accuracy min: 0.03
+train_loss: tensor(111.5067, device='cuda:0')
+train_loss/datalen tensor(0.5000, device='cuda:0')
+Loss updated:  tensor(26.2063, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.08
+test accuracy: 0.06
+test_loss: tensor(66.6046, device='cuda:0')
+test_loss/datalen tensor(0.6938, device='cuda:0')
+train accuracy max: 0.02
+train_loss: tensor(109.0769, device='cuda:0')
+train accuracy min: 0.03
+train_loss: tensor(109.0769, device='cuda:0')
+train_loss/datalen tensor(0.4891, device='cuda:0')
+Loss updated:  tensor(15.0583, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.09
+test accuracy: 0.06
+test_loss: tensor(66.7709, device='cuda:0')
+test_loss/datalen tensor(0.6955, device='cuda:0')
+train accuracy max: 0.03
+train_loss: tensor(105.9818, device='cuda:0')
+train accuracy min: 0.03
+train_loss: tensor(105.9818, device='cuda:0')
+train_loss/datalen tensor(0.4753, device='cuda:0')
+Loss updated:  tensor(10.3467, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.1
+test_loss: tensor(67.3609, device='cuda:0')
+test_loss/datalen tensor(0.7017, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(103.0868, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(103.0868, device='cuda:0')
+train_loss/datalen tensor(0.4623, device='cuda:0')
+Loss updated:  tensor(12.0215, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.09
+test accuracy: 0.04
+test_loss: tensor(67.2103, device='cuda:0')
+test_loss/datalen tensor(0.7001, device='cuda:0')
+train accuracy max: 0.06
+train_loss: tensor(100.3859, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(100.3859, device='cuda:0')
+train_loss/datalen tensor(0.4502, device='cuda:0')
+Loss updated:  tensor(11.4893, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.09
+test accuracy: 0.05
+test_loss: tensor(67.4666, device='cuda:0')
+test_loss/datalen tensor(0.7028, device='cuda:0')
+train accuracy max: 0.04
+train_loss: tensor(97.6157, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(97.6157, device='cuda:0')
+train_loss/datalen tensor(0.4377, device='cuda:0')
+Loss updated:  tensor(17.5114, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.08
+test accuracy: 0.04
+test_loss: tensor(67.4929, device='cuda:0')
+test_loss/datalen tensor(0.7031, device='cuda:0')
+train accuracy max: 0.04
+train_loss: tensor(95.1314, device='cuda:0')
+train accuracy min: 0.02
+train_loss: tensor(95.1314, device='cuda:0')
+train_loss/datalen tensor(0.4266, device='cuda:0')
+Loss updated:  tensor(10.7442, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.04
+test accuracy: 0.07
+test_loss: tensor(67.7438, device='cuda:0')
+test_loss/datalen tensor(0.7057, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(92.5477, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(92.5477, device='cuda:0')
+train_loss/datalen tensor(0.4150, device='cuda:0')
+Loss updated:  tensor(12.7515, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.08
+test accuracy: 0.04
+test_loss: tensor(68.0091, device='cuda:0')
+test_loss/datalen tensor(0.7084, device='cuda:0')
+train accuracy max: 0.07
+train_loss: tensor(88.6981, device='cuda:0')
+train accuracy min: 0.0
+train_loss: tensor(88.6981, device='cuda:0')
+train_loss/datalen tensor(0.3977, device='cuda:0')
+Loss updated:  tensor(15.4733, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.06
+test_loss: tensor(68.2404, device='cuda:0')
+test_loss/datalen tensor(0.7108, device='cuda:0')
+train accuracy max: 0.06
+train_loss: tensor(86.2852, device='cuda:0')
+train accuracy min: 0.0
+train_loss: tensor(86.2852, device='cuda:0')
+train_loss/datalen tensor(0.3869, device='cuda:0')
+Loss updated:  tensor(8.9742, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.08
+test accuracy: 0.07
+test_loss: tensor(68.3015, device='cuda:0')
+test_loss/datalen tensor(0.7115, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(83.5566, device='cuda:0')
+train accuracy min: 0.02
+train_loss: tensor(83.5566, device='cuda:0')
+train_loss/datalen tensor(0.3747, device='cuda:0')
+Loss updated:  tensor(14.3742, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.09
+test_loss: tensor(68.4146, device='cuda:0')
+test_loss/datalen tensor(0.7127, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(80.6958, device='cuda:0')
+train accuracy min: 0.02
+train_loss: tensor(80.6958, device='cuda:0')
+train_loss/datalen tensor(0.3619, device='cuda:0')
+Loss updated:  tensor(13.7833, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.09
+test_loss: tensor(68.5860, device='cuda:0')
+test_loss/datalen tensor(0.7144, device='cuda:0')
+train accuracy max: 0.06
+train_loss: tensor(77.7920, device='cuda:0')
+train accuracy min: 0.01
+train_loss: tensor(77.7920, device='cuda:0')
+train_loss/datalen tensor(0.3488, device='cuda:0')
+Loss updated:  tensor(6.5229, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.05
+test_loss: tensor(68.9573, device='cuda:0')
+test_loss/datalen tensor(0.7183, device='cuda:0')
+train accuracy max: 0.07
+train_loss: tensor(75.1692, device='cuda:0')
+train accuracy min: 0.0
+train_loss: tensor(75.1692, device='cuda:0')
+train_loss/datalen tensor(0.3371, device='cuda:0')
+Loss updated:  tensor(11.7276, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.08
+test accuracy: 0.05
+test_loss: tensor(68.7022, device='cuda:0')
+test_loss/datalen tensor(0.7156, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(72.5551, device='cuda:0')
+train accuracy min: 0.0
+train_loss: tensor(72.5551, device='cuda:0')
+train_loss/datalen tensor(0.3254, device='cuda:0')
+Loss updated:  tensor(13.3213, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.09
+test accuracy: 0.03
+test_loss: tensor(69.0431, device='cuda:0')
+test_loss/datalen tensor(0.7192, device='cuda:0')
+train accuracy max: 0.05
+train_loss: tensor(69.7259, device='cuda:0')
+train accuracy min: 0.02
+train_loss: tensor(69.7259, device='cuda:0')
+train_loss/datalen tensor(0.3127, device='cuda:0')
+Loss updated:  tensor(5.1750, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.06
+test accuracy: 0.07
+test_loss: tensor(69.5329, device='cuda:0')
+test_loss/datalen tensor(0.7243, device='cuda:0')
+train accuracy max: 0.07
+train_loss: tensor(67.7046, device='cuda:0')
+train accuracy min: 0.0
+train_loss: tensor(67.7046, device='cuda:0')
+train_loss/datalen tensor(0.3036, device='cuda:0')
+Loss updated:  tensor(11.7914, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.04
+test accuracy: 0.04
+test_loss: tensor(69.5423, device='cuda:0')
+test_loss/datalen tensor(0.7244, device='cuda:0')
+train accuracy max: 0.07
+train_loss: tensor(64.2785, device='cuda:0')
+train accuracy min: 0.0
+train_loss: tensor(64.2785, device='cuda:0')
+train_loss/datalen tensor(0.2882, device='cuda:0')
+Loss updated:  tensor(10.9008, device='cuda:0', grad_fn=<SumBackward0>)
+test accuracy: 0.08
+test accuracy: 0.07
+test_loss: tensor(69.5605, device='cuda:0')
+test_loss/datalen tensor(0.7246, device='cuda:0')
